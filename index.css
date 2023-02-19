@@ -1,0 +1,172 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.image-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1512px;
+  height: 982px;
+  object-fit: cover;
+}
+.home {
+  position: absolute;
+  top: 21px;
+  left: 435px;
+  display: inline-block;
+  width: 151px;
+  height: 42px;
+}
+.about {
+  top: 21px;
+  left: 567px;
+  width: 205px;
+  height: 34px;
+}
+.about,
+.register,
+.sponcers,
+.timeline {
+  position: absolute;
+  display: inline-block;
+}
+.timeline {
+  top: 11.7px;
+  left: 740.09px;
+  width: 165px;
+  height: 51px;
+  transform: rotate(0.21deg);
+  transform-origin: 0 0;
+}
+.register,
+.sponcers {
+  top: 12px;
+  left: 905px;
+  width: 164px;
+  height: 43px;
+}
+.register {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 38px;
+  left: 1173px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+  width: 91px;
+  height: 52px;
+}
+.hands-on-workshops {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.inspiring-speakers {
+  margin: 0;
+}
+.hands-on-workshops-exciting-e-container {
+  margin: 0;
+  position: absolute;
+  top: 153px;
+  left: 60px;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  width: 514px;
+  height: 239px;
+}
+.icon {
+  position: absolute;
+  top: 982px;
+  left: 0;
+  width: 1512px;
+  height: 982px;
+  object-fit: cover;
+}
+.events,
+.speakers,
+.workshops {
+  position: absolute;
+  top: 1440px;
+  left: 89px;
+  display: inline-block;
+  width: 110px;
+  height: 44px;
+}
+.events,
+.speakers {
+  left: 356px;
+  width: 147px;
+  height: 33px;
+}
+.speakers {
+  left: 642px;
+  width: 110px;
+  height: 59px;
+}
+.icon1 {
+  position: absolute;
+  top: 1964px;
+  left: 0;
+  width: 1512px;
+  height: 982px;
+  object-fit: cover;
+}
+.events1,
+.speakers1,
+.workshops1 {
+  position: absolute;
+  top: 2238px;
+  left: 89px;
+  display: inline-block;
+  width: 187px;
+  height: 77px;
+}
+.events1,
+.speakers1 {
+  top: 2521px;
+  left: 71px;
+  width: 205px;
+  height: 67px;
+}
+.speakers1 {
+  top: 2763px;
+  left: 89px;
+  width: 164px;
+  height: 56px;
+}
+.aurora-is-a,
+.aurora-is-a1,
+.aurora-is-a2 {
+  position: absolute;
+  top: 2250px;
+  left: 304px;
+  display: inline-block;
+  width: 551px;
+  height: 101px;
+}
+.aurora-is-a1,
+.aurora-is-a2 {
+  top: 2588px;
+  height: 237px;
+}
+.aurora-is-a2 {
+  top: 2819px;
+  left: 313px;
+  height: 101px;
+}
+.image-1-parent {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2946px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
