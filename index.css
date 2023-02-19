@@ -17,7 +17,6 @@ body {
   display: inline-block;
   width: 151px;
   height: 42px;
-  
 }
 .about {
   top: 21px;
@@ -87,6 +86,10 @@ body {
   width: 1512px;
   height: 982px;
   object-fit: cover;
+}
+.linkss {
+  text-decoration: none;
+  color: white;
 }
 .events,
 .speakers,
